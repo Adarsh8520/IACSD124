@@ -3,6 +3,14 @@ online Project Management
 Define the boundaries and limitations of the system.
 Identify the target users (project managers, Delivery managers, stakeholders)
 
+
+Scope:
+The system will provide features for creating and managing projects, assigning tasks, tracking progress, managing resources, generating reports, and facilitating team communication.
+
+Specify the scope of the online project management system.
+Define the boundaries and limitations of the system.
+Identify the target users (project managers, team members, stakeholders, etc.) and their roles.
+
 Stakeholders:
 List and describe the stakeholders involved in the online project management system, such as project managers, Delivery managers, clients, executives, etc.
 Functional Requirements:
