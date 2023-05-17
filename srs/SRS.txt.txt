@@ -1,0 +1,61 @@
+online Project Management 
+
+Define the boundaries and limitations of the system.
+Identify the target users (project managers, Delivery managers, stakeholders)
+
+Stakeholders:
+List and describe the stakeholders involved in the online project management system, such as project managers, Delivery managers, clients, executives, etc.
+Functional Requirements:
+
+Functional Requirements:
+
+Identify and describe the functional requirements of the system
+User registration and authentication
+Project creation and management
+Task and milestone management
+Document and file sharing
+Collaboration and communication features (discussions, notifications, etc.)
+
+Functional Requirements for the Online Project Management System:
+
+User registration and authentication:
+Users should be able to create accounts and register with the system.
+Authentication mechanisms such as username/password or social media login should be provided for secure access.
+User roles and permissions should be defined to control system access and privileges.
+
+Project creation and management:
+Users with appropriate permissions should be able to create new projects.
+Projects should have attributes like a unique identifier, title, description, start and end dates, and associated team members.
+Project details should be editable, and projects may be marked as active, on hold, or completed.
+
+Task and milestone management:
+Users should be able to create tasks and assign them to team members within a project.
+Tasks should have attributes such as a unique identifier, title, description, due date, priority, and statusTask and milestone management:
+Users should be able to create tasks and assign them to team members within a project.
+Tasks should have attributes such as a unique identifier, title, description, due date, priority, and status (For exp:not started, in progress, completed).
+Milestones should be set to track major achievements or deliverables within a project.
+
+Document and file sharing:
+Users should be able to upload and share project-related documents and files.
+Version control should be implemented to manage document revisions.
+Access control settings should be available to specify who can view, edit, or download files.
+
+Collaboration and communication features:
+Users should be able to engage in discussions or forums related to a project or specific tasks.
+Real-time notifications or email alerts should be sent to relevant users for task assignments, updates, or important project-related events.
+Milestones should be set to track major achievements or deliverables within a project.
+
+Reporting and analytics
+tracls major achievements or deliverables within a projectv a poject
+Document and file sharing:
+Users should be able to upload and share project-related documents and files.
+Version control should be implemented to manage document revisions.
+Access control settings should be available to specify who can view, edit, or download files.
+
+Collaboration and communication features:
+Users should be able to engage in discussions or forums related to a project or specific tasks.
+Real-time notifications or email alerts should be sent to relevant users for task assignments, updates, or important project-related events.
+
+
+
+
